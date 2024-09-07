@@ -1,0 +1,23 @@
+{
+    "version": "1.0.0",
+    "frames": [
+        {
+            "id": "cede46e2-3d83-4443-86e3-6bad097b24aa",
+            "category": "Cartoon",
+            "url": "img/qr-frame/balloon.png",
+            "top": 675,
+            "left": 650,
+            "width": 720,
+            "height": 720
+        },
+        {
+            "id": "cede46e2-3d83-4443-86e3-6bad097b23ss",
+            "category": "Cartoon",
+            "url": "img/qr-frame/pink-gift.png",
+            "top": 585,
+            "left": 490,
+            "width": 1000,
+            "height": 1000
+        }
+    ]
+}
