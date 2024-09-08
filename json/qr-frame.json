@@ -18,6 +18,15 @@
             "left": 490,
             "width": 1000,
             "height": 1000
+        },
+        {
+            "id": "cede46e2-3d83-4443-86e3-6bad097b23dd",
+            "category": "3D Block",
+            "url": "img/qr-frame/3d_1.png",
+            "top": 300,
+            "left": 290,
+            "width": 910,
+            "height": 910
         }
     ]
 }
