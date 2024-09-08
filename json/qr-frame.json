@@ -21,12 +21,39 @@
         },
         {
             "id": "cede46e2-3d83-4443-86e3-6bad097b23dd",
-            "category": "3D Block",
+            "category": "Square Block",
             "url": "img/qr-frame/3d_1.png",
             "top": 300,
             "left": 290,
             "width": 910,
             "height": 910
+        },
+        {
+            "id": "cede46e2-3d83-4443-86e3-6bad097b23ff",
+            "category": "Square Block",
+            "url": "img/qr-frame/square_block_2.png",
+            "top": 310,
+            "left": 310,
+            "width": 880,
+            "height": 880
+        },
+        {
+            "id": "cede46e2-3d83-4443-86e3-6bad097b23gg",
+            "category": "Square Block",
+            "url": "img/qr-frame/square_block_3.png",
+            "top": 90,
+            "left": 170,
+            "width": 870,
+            "height": 870
+        },
+        {
+            "id": "cede46e2-3d83-4443-86e3-6bad097b23hh",
+            "category": "Natural",
+            "url": "img/qr-frame/natural_1.png",
+            "top": 440,
+            "left": 455,
+            "width": 1090,
+            "height": 1090
         }
     ]
 }
