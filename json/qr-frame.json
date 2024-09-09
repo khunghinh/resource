@@ -54,6 +54,60 @@
             "left": 455,
             "width": 1090,
             "height": 1090
+        },
+        {
+            "id": "cede46e2-3d83-4443-86e3-6bad097b23jj",
+            "category": "Summer",
+            "url": "img/qr-frame/lemon.svg",
+            "top": 600,
+            "left": 500,
+            "width": 1000,
+            "height": 1000
+        },
+        {
+            "id": "cede46e2-3d83-4443-86e3-6bad097b23kk",
+            "category": "Modern",
+            "url": "img/qr-frame/modern_1.png",
+            "top": 420,
+            "left": 420,
+            "width": 1110,
+            "height": 1110
+        },
+        {
+            "id": "cede46e2-3d83-4443-86e3-6bad097b23ll",
+            "category": "Modern",
+            "url": "img/qr-frame/modern_2.png",
+            "top": 320,
+            "left": 320,
+            "width": 1360,
+            "height": 1360
+        },
+        {
+            "id": "cede46e2-3d83-4443-86e3-6bad097b23qq",
+            "category": "Cartoon",
+            "url": "img/qr-frame/balloon_rabbit.png",
+            "top": 330,
+            "left": 730,
+            "width": 710,
+            "height": 710
+        },
+        {
+            "id": "cede46e2-3d83-4443-86e3-6bad097b23ww",
+            "category": "Modern",
+            "url": "img/qr-frame/modern_3.png",
+            "top": 370,
+            "left": 370,
+            "width": 1250,
+            "height": 1250
+        },
+        {
+            "id": "cede46e2-3d83-4443-86e3-6bad097b23ee",
+            "category": "Cartoon",
+            "url": "img/qr-frame/lock.png",
+            "top": 900,
+            "left": 550,
+            "width": 900,
+            "height": 900
         }
     ]
 }
